@@ -1,6 +1,6 @@
 # Research-on-grasping-planning-of-mobile-robot-arm-based-on-deep-reinforcement-learning
 Project Overview
-This project is based on Deep Reinforcement Learning (DRL) methods, combined with the improved TD3 algorithm (including TD3, TD3(GRU), TD3(LSTM), and TD3(GRU)_PER versions), to implement dynamic obstacle avoidance and target grasping planning for a mobile robotic arm in complex environments. By introducing COQNLS, GRU (Gated Recurrent Unit), LSTM (Long Short-Term Memory), and Prioritized Experience Replay (PER) mechanisms, the performance and convergence efficiency of the model are significantly enhanced.
+This project is based on Deep Reinforcement Learning (DRL) methods, combined with the improved TD3 algorithm (including TD3, TD3(GRU), TD3(LSTM), and TD3(GRU)_PER versions), to implement dynamic obstacle avoidance and target grasping planning for a mobile robotic arm in complex environments. By introducing HQP, COQNLS, GRU (Gated Recurrent Unit), LSTM (Long Short-Term Memory), and Prioritized Experience Replay (PER) mechanisms, the performance and convergence efficiency of the model are significantly enhanced.
 
 Project Structure
 The project code is organized into the following six major components:
